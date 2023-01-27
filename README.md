@@ -4,6 +4,12 @@ Repository developed at React Conf BR 2022 🚀
 
 </br></br>
 
+## Video
+
+- [Layouts RFC Next.js – Felipe Battistotti](https://youtu.be/o2JAyHAyp-o)
+
+</br></br>
+
 ## Getting Started
 
 Install packages:
