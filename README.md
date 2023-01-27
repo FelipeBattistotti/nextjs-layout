@@ -1,6 +1,8 @@
 ## Talk Layouts RFC Next.js - React Conf BR 2022
 
-Repository developed at React Conf BR 2022
+Repository developed at React Conf BR 2022 🚀
+
+</br></br>
 
 ## Getting Started
 
